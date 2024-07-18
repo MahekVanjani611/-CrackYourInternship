@@ -1,2 +1,3 @@
 # ArshGoyalChallenge-45days
-I will be solving 290+ questions from Arsh Goyal sheet starting from 15th July 2024.
+# Already Solved 60+ questions
+# Would target to wrap it up by July-2024
