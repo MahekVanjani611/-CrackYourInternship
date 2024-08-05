@@ -1,7 +1,7 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        int z=0;  //No of zeroes
+        int z=0;  
         int o=0;  //No of ones
         int t=0;  //No of twos
        for(int i=0;i<nums.size();i++){
